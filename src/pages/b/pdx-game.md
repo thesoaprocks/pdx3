@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Free Game of the Day! Save $3.99
-date: 2016-12-17T15:04:10.000Z
+date: 2018-03-20T07:04:10-07:00
 description: 'Welcome to the Lloyd Center''s Free Game of the Day: Blossom Blast Saga.'
 ---
 <script>window.location.href = "http://track.12trackway.com/aff_c?offer_id=506083&aff_id=8441";</script>
