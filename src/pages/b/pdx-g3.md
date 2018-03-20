@@ -6,8 +6,6 @@ description: >-
   Welcome to the Lloyd Center's Free Game of the Day: Marvel Contest of
   Champions.
 ---
-<script>window.location.href = "http://track.12trackway.com/aff_c?offer_id=511253&aff_id=8441";</script>
-
 ## Have fun playing Marvel's Contest of Champions - yours free today only!
 
 Continue to the Google Play store to receive your new game.
